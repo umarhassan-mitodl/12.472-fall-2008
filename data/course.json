@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ]
+  ],
+  "legacy_uid": "0b9c32ba-223a-e4c4-3fdb-bc3ee4e61058",
+  "instructors": {
+    "content": [
+      "76de1dbb-04d2-3413-c247-8503833005f1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "00e8d175-a441-373d-bdd2-2b93076bb589",
+    "website": "12-472-building-earth-like-planets-from-nebular-gas-to-ocean-worlds-fall-2008"
+  },
+  "course_title": "Building Earth-like Planets: From Nebular Gas to Ocean Worlds",
+  "course_description": "This course covers examination of the state of knowledge of planetary formation, beginning with planetary nebulas and continuing through accretion (from gas, to dust, to planetesimals, to planetary embryos, to planets). It also includes processes of planetary differentiation, crust formation, atmospheric degassing, and surface water condensation. This course has integrated discussions of compositional and physical processes, based upon observations from our solar system and from exoplanets. Focus on terrestrial (rocky and metallic) planets, though more volatile-rich bodies are also examined.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.472",
+  "course_image_thumbnail": {
+    "content": "9f1b542b-6060-d60e-74d2-9d4b892c4672",
+    "website": "12-472-building-earth-like-planets-from-nebular-gas-to-ocean-worlds-fall-2008"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "72bf9218-faa6-470c-bc8e-c93793cd4e61",
+  "site_short_id": "12.472-fall-2008",
+  "site_url_path": "courses/12-472-building-earth-like-planets-from-nebular-gas-to-ocean-worlds-fall-2008",
+  "title": "Course Metadata"
+}
