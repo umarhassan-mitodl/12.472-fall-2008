@@ -2,6 +2,8 @@
 content_type: page
 description: This calendar section provides the schedule of lecture topics, readings
   and assignments, and additional notes on the lecture sessions.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

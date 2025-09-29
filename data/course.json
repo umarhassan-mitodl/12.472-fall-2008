@@ -38,6 +38,7 @@
     "website": "12-472-building-earth-like-planets-from-nebular-gas-to-ocean-worlds-fall-2008"
   },
   "course_title": "Building Earth-like Planets: From Nebular Gas to Ocean Worlds",
+  "hide_download": true,
   "course_description": "This course covers examination of the state of knowledge of planetary formation, beginning with planetary nebulas and continuing through accretion (from gas, to dust, to planetesimals, to planetary embryos, to planets). It also includes processes of planetary differentiation, crust formation, atmospheric degassing, and surface water condensation. This course has integrated discussions of compositional and physical processes, based upon observations from our solar system and from exoplanets. Focus on terrestrial (rocky and metallic) planets, though more volatile-rich bodies are also examined.\n",
   "department_numbers": [
     "12"
@@ -48,6 +49,7 @@
     "content": "9f1b542b-6060-d60e-74d2-9d4b892c4672",
     "website": "12-472-building-earth-like-planets-from-nebular-gas-to-ocean-worlds-fall-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],
